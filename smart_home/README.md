@@ -4,9 +4,11 @@
     UX Process 
 </h1>
 
-
-                                                          
-                                                          
+1. [persona](#persona)
+2. [User journey map](#user-journey-map)
+3. [User Flow](#user-flow)
+4. [Wireframes](#Wireframes)
+                                              
 ## Persona
 &nbsp;
 
