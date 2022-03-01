@@ -24,16 +24,19 @@ Topics:
 
 ![Userjourneymap](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/userjourney%20map.png)
 
+&nbsp;
 ## User Flow
 &nbsp;
 
 ![Userflow](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/User%20flow.png)
 
+&nbsp;
 ## Wireframes
 &nbsp;
 
 ![wireframes](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/wireframe.png)
 
+&nbsp;
 ## Mockups
 &nbsp;
 
