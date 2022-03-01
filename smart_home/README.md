@@ -38,7 +38,7 @@ Topics:
 
 &nbsp;
 ## Mockups
-&nbsp;
+
 
 ![uimobile](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/ui%20mobile.png)
 
