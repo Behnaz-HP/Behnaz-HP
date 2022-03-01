@@ -1,8 +1,12 @@
 # A simple smart home UX Design for controling windows
 
-<h1 align="center">
-    UX Process 
-</h1>
+## Project Summary
+This is an UX case study conducted by me within one week. The purpose is to give a user-center App to control and manage smart home windows.
+
+
+
+
+
 
 Topics:
   - [Persona](#persona)
@@ -12,6 +16,9 @@ Topics:
   - [Mockups](#mockups)
   - [Light and Dark Theme](#light-and-dark-theme)
 
+<h1 align="center">
+    UX Process 
+</h1>
 
 &nbsp;
 ## Persona
