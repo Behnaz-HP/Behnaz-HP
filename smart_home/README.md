@@ -7,23 +7,21 @@ This is an UX case study conducted by me within one week. The purpose is to desi
 
 Topics:
 
-UX Design
+- UX Design
   - [Persona](#persona)
   - [User journey map](#user-journey-map)
   - [User Flow](#user-flow)
   - [Competitor analysis](#user-flow)
   - [Wireframes](#wireframes)
   
-  UI Design
+- UI Design
 
   - [Mockups](#mockups)
   - [Light and Dark Theme](#light-and-dark-theme)
 
 &nbsp;
 
-<h1 align="center">
-    UX Process 
-</h1>
+
 
 &nbsp;
 ## Persona
