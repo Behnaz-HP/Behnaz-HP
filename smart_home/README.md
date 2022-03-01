@@ -4,7 +4,7 @@
     UX Process 
 </h1>
 
-- [A simple smart home UX Design for controling windows](#a-simple-smart-home-ux-design-for-controling-windows)
+Topics:
   - [Persona](#persona)
   - [User journey map](#user-journey-map)
   - [User Flow](#user-flow)
