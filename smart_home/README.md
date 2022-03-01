@@ -1,20 +1,24 @@
 # A simple smart home UX Design for controling windows
 
 ## Project Summary
-This is an UX case study conducted by me within one week. The purpose is to give a user-center App to control and manage smart home windows.
+This is an UX case study conducted by me within one week. The purpose is to design a user-center App to control and manage smart home windows.
 
-
-
-
-
+&nbsp;
 
 Topics:
+
+UX Design
   - [Persona](#persona)
   - [User journey map](#user-journey-map)
   - [User Flow](#user-flow)
   - [Wireframes](#wireframes)
+  
+  UI Design
+
   - [Mockups](#mockups)
   - [Light and Dark Theme](#light-and-dark-theme)
+
+&nbsp;
 
 <h1 align="center">
     UX Process 
@@ -25,6 +29,11 @@ Topics:
 &nbsp;
 
 ![persona](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/persona.png)
+
+User Story
+
+AS a busy fashion designer, I want to open the window kitchen automatically at 8 A.M with a certain angle,
+so that the air will be changed ASAP I leave to work.
 
 ## User journey map
 &nbsp;
