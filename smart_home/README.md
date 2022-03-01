@@ -11,6 +11,7 @@ UX Design
   - [Persona](#persona)
   - [User journey map](#user-journey-map)
   - [User Flow](#user-flow)
+  - [Competitor analysis](#user-flow)
   - [Wireframes](#wireframes)
   
   UI Design
@@ -40,17 +41,25 @@ so that 'the air will be changed ASAP I leave to work'.
 Jared is a busy fashion designer, who needs 'the air is changed ASAP he leaves to work;
 because he often comes back home late'.
 
-
-## User journey map
 &nbsp;
+## User journey map
 
-![Userjourneymap](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/userjourney%20map.png)
+
+![Userjourneymap](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/comparative.png)
 
 &nbsp;
 ## User Flow
 &nbsp;
 
 ![Userflow](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/User%20flow.png)
+
+&nbsp;
+## Competitor Analysis
+&nbsp;
+
+![competitoranalysis](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/User%20flow.png)
+
+
 
 &nbsp;
 ## Wireframes
