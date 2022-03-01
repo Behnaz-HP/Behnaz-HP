@@ -32,12 +32,13 @@ UX Design
 
 User Story:
 
-AS a busy fashion designer, I want to open the window kitchen automatically at 8 A.M with a certain angle,
-so that the air will be changed ASAP I leave to work.
+AS a "busy fashion designer", I want to open the window kitchen automatically at 8 A.M with a certain angle,
+so that 'the air will be changed ASAP I leave to work'.
 
 Problem Statement:
 
-Jared is a busy fashion designer, who needs the air is changed ASAP he leaves to work; because he often comes back home late.
+Jared is a busy fashion designer, who needs 'the air is changed ASAP he leaves to work;
+because he often comes back home late'.
 
 
 ## User journey map
