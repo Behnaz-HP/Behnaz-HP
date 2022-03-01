@@ -59,8 +59,10 @@ because he often comes back home late'.
 
 To build a successful application, it is needed to conduct a complete examination.
 In-depth analysis gives the unique value that they provide. Having an idea of all this information will certainly help to make better and wiser decisions about the smart home mobile app development journey.
+
+The top smart home Apps in 2020 are: Amazon's Alexa, Samsung SmartThings, Google Home,Apple Home, Danalock Bluetooth Z-lock,...
+
 I've analyzed the most populare home apps, dividing them into "direct" and "indirect" competitors.
-The top Apps today are: amazon Alexa, Samsung, Apple,
 
 ![competitoranalysis](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/comparative.png)
 
