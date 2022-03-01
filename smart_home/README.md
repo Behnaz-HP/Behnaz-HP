@@ -45,7 +45,7 @@ because he often comes back home late'.
 ## User journey map
 
 
-![Userjourneymap](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/comparative.png)
+![Userjourneymap](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/userjourney%20map.png)
 
 &nbsp;
 ## User Flow
@@ -62,7 +62,7 @@ In-depth analysis into the best smart home app market, giving a comprehensive in
 I've analyzed the most populare home apps, dividing them into "direct" and "indirect" competitors.
 The top Apps today are: amazon Alexa, Samsung, Apple,
 
-![competitoranalysis](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/User%20flow.png)
+![competitoranalysis](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/comparative.png)
 
 
 
