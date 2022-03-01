@@ -57,6 +57,11 @@ because he often comes back home late'.
 ## Competitor Analysis
 &nbsp;
 
+The global smart home automation market is already crowded. To build a successful application, it is needed to conduct a complete examination.
+In-depth analysis into the best smart home app market, giving a comprehensive insight into how the successful applications out there are dealing with the dynamic requirements of users, as well as the unique value they provide. Having an idea of all this information will certainly help to make better and wiser decisions about the smart home mobile app development journey.
+I've analyzed the most populare home apps, dividing them into "direct" and "indirect" competitors.
+The top Apps today are: amazon Alexa, Samsung, Apple,
+
 ![competitoranalysis](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/User%20flow.png)
 
 
