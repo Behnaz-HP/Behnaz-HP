@@ -4,11 +4,15 @@
     UX Process 
 </h1>
 
-1. [persona](#persona)
-2. [User journey map](#user-journey-map)
-3. [User Flow](#user-flow)
-4. [Wireframes](#Wireframes)
-                                              
+- [A simple smart home UX Design for controling windows](#a-simple-smart-home-ux-design-for-controling-windows)
+  - [Persona](#persona)
+  - [User journey map](#user-journey-map)
+  - [User Flow](#user-flow)
+  - [Wireframes](#wireframes)
+  - [Mockups](#mockups)
+  - [Light and Dark Theme](#light-and-dark-theme)
+
+
 ## Persona
 &nbsp;
 
@@ -29,14 +33,14 @@
 
 ![wireframes](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/wireframe.png)
 
-## UI Design for mobile
+## Mockups
 &nbsp;
 
 ![uimobile](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/ui%20mobile.png)
 
                                                        
                                                 
-## UI design for tablet and mobile
+## Light and Dark Theme
 
 ![UI](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/UI%20Behnaz.png)
 
