@@ -64,6 +64,7 @@ The top smart home Apps in 2020 are: Amazon's Alexa, Samsung SmartThings, Google
 
 I've analyzed the most populare home apps, dividing them into "direct" and "indirect" competitors.
 
+&nbsp;
 ![competitoranalysis](https://github.com/Behnaz-HP/Behnaz-HP.github.io/blob/main/smart_home/comparative.png)
 
 
